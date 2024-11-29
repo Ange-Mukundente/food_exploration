@@ -10,8 +10,12 @@ Categories: Browse photos by themes such as grazing animals, raw foods, farm set
 Clone the repository:
 git clone https://github.com/Ange-Mukundente/food_exploration_flutter.git
 Navigate to the project directory:
+
 cd food_exploration_flutter
+
 Install dependencies:
+
 flutter pub get
 Run the app:
+
 flutter run
